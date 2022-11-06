@@ -1,0 +1,14 @@
+table, th, td {
+	border: 1px hidden;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.title, .name {
+	text-align: center;
+}
+
+.pos {
+	text-align: center;
+	color: purple;
+}
